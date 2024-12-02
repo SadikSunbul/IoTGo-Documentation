@@ -138,6 +138,6 @@ Proje metriklerini takip etmek ve görselleştirmek için aşağıdaki araçlar�
 
 Eğer proje ile ilgili sorularınız veya geri bildirimleriniz varsa, benimle iletişime geçebilirsiniz:
 
-- **Email**: [jsjsqwe12@gmaik.com](mailto:jsjsqwe12@gmaik.com)
+- **Email**: [jsjsqwe12@gmail.com](mailto:jsjsqwe12@gmail.com)
 - **LinkedIn**: [Sadık Sünbül](https://www.linkedin.com/in/sadiksunbul/)  
 
